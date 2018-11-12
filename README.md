@@ -1,6 +1,6 @@
-# Analizador Lexico
+# Analizador Léxico
 ### FLEX
-Se utilizo para generar el analizador lexico 
+Se utilizó para generar el analizador léxico 
 
 ### Ejecutar
 Ejecutar el archivo a.out en la terminal
